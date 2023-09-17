@@ -13,7 +13,7 @@ According to research on "The Impact of School Libraries on Students' Academic A
 **Enhancing the Book Abilities of University Students:**
 - Leveraging accumulated book borrowing data to activate library services.
 - Developing a recommendation system to provide convenient and beneficial information about tailored books.
-- Stimulating student interest through supplementary library services.
+- Stimulating student interest through supplementary library services.  
 **Activation of University's Smart Campus:**
 - Encouraging the use of the library app and website through related book recommendations.
 - Facilitating early stocking of popular library books.
