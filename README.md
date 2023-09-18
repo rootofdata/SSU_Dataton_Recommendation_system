@@ -1,5 +1,11 @@
 # SSU_Recommendation
 Developing a recommendation system and implementing a service using library data provided by SSU Data Competition
+- Activating library homepage use through recommendation system development
+
+University Central Library Datathon Excellence Award
+(Customized book recommendation service for students)
+- SSU Datathon Excellence Award
+- Published by: Soongsil University · August 2022
 
 ## Idea details
 
