@@ -1,7 +1,7 @@
 # SSU_Recommendation
 Developing a recommendation system and implementing a service using library data provided by SSU Data Competition
 - Activating library homepage use through recommendation system development
-
+  
 ## Idea details
 
 ### Background:
