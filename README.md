@@ -2,11 +2,6 @@
 Developing a recommendation system and implementing a service using library data provided by SSU Data Competition
 - Activating library homepage use through recommendation system development
 
-University Central Library Datathon Excellence Award
-(Customized book recommendation service for students)
-- SSU Datathon Excellence Award
-- Published by: Soongsil University · August 2022
-
 ## Idea details
 
 ### Background:
@@ -59,3 +54,8 @@ e.g., Cosine: Similarity based on slopes, Pearson: Similarity based on the absol
 - **H(Effect Verification)**: Survey Data 2: Verify the effect of library website satisfaction survey.
 Compare initial Y and calculate expected improvement in satisfaction.
 Note: This process outlines how to approach the problem, collect and preprocess data, build models, and verify their effectiveness in improving library website usage and satisfaction.
+
+### University Central Library Datathon Excellence Award
+(Customized book recommendation service for students)
+- SSU Datathon Excellence Award
+- Published by: Soongsil University · August 2022
