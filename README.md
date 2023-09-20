@@ -55,6 +55,8 @@ e.g., Cosine: Similarity based on slopes, Pearson: Similarity based on the absol
 Compare initial Y and calculate expected improvement in satisfaction.
 Note: This process outlines how to approach the problem, collect and preprocess data, build models, and verify their effectiveness in improving library website usage and satisfaction.
 
+<img width="2690" alt="image" src="https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/d2868bdc-93a8-45ab-a957-68d50f2bcc71">
+
 ### University Central Library Datathon Excellence Award
 (Customized book recommendation service for students)
 - SSU Datathon Excellence Award
