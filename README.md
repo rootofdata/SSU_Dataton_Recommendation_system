@@ -31,6 +31,7 @@ The recommendation model will be developed using the Python framework Surprise. 
 This project aims to stimulate students' interest in reading, boost library usage, and enhance the overall academic experience, ultimately contributing to the activation of University's smart campus.
 
 ## Model Process
+![image](https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/567117be-be07-459d-bc0d-59ba27e0b23b)
 
 **Problem Definition (Storytelling)**:**
 - **A(Data Planning)**: Survey Data - Satisfaction survey of the existing library website (to determine the direction of recommendations).
