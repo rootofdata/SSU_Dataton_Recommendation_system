@@ -59,8 +59,8 @@
 
 <img width="2690" alt="image" src="https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/d2868bdc-93a8-45ab-a957-68d50f2bcc71">
 
-**대학 중앙 도서관 데이터톤 우수상 ** 
-(학생을 위한 맞춤형 도서 추천 서비스)  
+**대학 중앙 도서관 데이터톤 우수상**   
+(학생을 위한 맞춤형 도서 추천 서비스)    
 
 SSU 데이터톤 우수상  
 발행자: 숭실대학교 · 2022년 8월  
