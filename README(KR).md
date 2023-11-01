@@ -30,7 +30,7 @@
 - Python 프레임워크 Surprise를 사용하여 추천 모델을 개발할 것이며 완료되면 앱 및 웹 사이트에 통합하여 사용자에게 개인화된 도서 추천을 제공할 것이다.  
  
 ### 모델 프로세스  
-![image](https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/567117be-be07-459d-bc0d-59ba27e0b23b)
+![image](https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/40047c1e-e2d6-466b-baae-22534b202ea3)
 **문제 정의 (스토리텔링):**  
 
 - A(데이터 계획): 기존 도서관 웹 사이트의 만족도 조사 (추천의 방향을 결정하기 위함).  
@@ -57,7 +57,10 @@
 - H(효과 검증): 만족도 조사 2: 도서관 웹 사이트 만족도 조사의 효과를 검증함. 초기 Y를 비교하고 만족도 개선을 예상하는 것.  
 참고: 이 프로세스는 문제에 접근하는 방법, 데이터를 수집하고 전처리하는 방법, 모델을 구축하고 그 효과를 검증하는 방법을 개요화한 것임.
 
-<img width="2690" alt="image" src="https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/d2868bdc-93a8-45ab-a957-68d50f2bcc71">
+<img width="350" alt="image" src="https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/bfab54ed-2e38-4354-a490-e3dd624ee338">
+
+![image](https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/561f59d0-b2dc-4de7-9429-c3cb0b0dac42)
+
 
 **대학 중앙 도서관 데이터톤 우수상**   
 (학생을 위한 맞춤형 도서 추천 서비스)    
