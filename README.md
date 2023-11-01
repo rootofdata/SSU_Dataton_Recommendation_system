@@ -30,8 +30,9 @@ The recommendation model will be developed using the Python framework Surprise. 
 
 This project aims to stimulate students' interest in reading, boost library usage, and enhance the overall academic experience, ultimately contributing to the activation of University's smart campus.
 
+
 ## Model Process
-![image](https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/567117be-be07-459d-bc0d-59ba27e0b23b)
+![image](https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/40047c1e-e2d6-466b-baae-22534b202ea3)
 
 **Problem Definition (Storytelling)**:**
 - **A(Data Planning)**: Survey Data - Satisfaction survey of the existing library website (to determine the direction of recommendations).
@@ -56,7 +57,9 @@ e.g., Cosine: Similarity based on slopes, Pearson: Similarity based on the absol
 Compare initial Y and calculate expected improvement in satisfaction.
 Note: This process outlines how to approach the problem, collect and preprocess data, build models, and verify their effectiveness in improving library website usage and satisfaction.
 
-<img width="2690" alt="image" src="https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/d2868bdc-93a8-45ab-a957-68d50f2bcc71">
+<img width="2690" alt="image" src="https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/bfab54ed-2e38-4354-a490-e3dd624ee338">
+![image](https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/561f59d0-b2dc-4de7-9429-c3cb0b0dac42)
+
 
 ### University Central Library Datathon Excellence Award
 (Customized book recommendation service for students)
