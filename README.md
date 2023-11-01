@@ -57,7 +57,8 @@ e.g., Cosine: Similarity based on slopes, Pearson: Similarity based on the absol
 Compare initial Y and calculate expected improvement in satisfaction.
 Note: This process outlines how to approach the problem, collect and preprocess data, build models, and verify their effectiveness in improving library website usage and satisfaction.
 
-<img width="2690" alt="image" src="https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/bfab54ed-2e38-4354-a490-e3dd624ee338">
+<img width="290" alt="image" src="https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/bfab54ed-2e38-4354-a490-e3dd624ee338">
+
 ![image](https://github.com/rootofdata/SSU_Dataton_Recommendation_system/assets/86711374/561f59d0-b2dc-4de7-9429-c3cb0b0dac42)
 
 
